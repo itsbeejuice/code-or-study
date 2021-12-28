@@ -10,5 +10,7 @@ while again:
         continue
     elif anotherroll.lower() != "y" or anotherroll.lower()!="yes":
         break 
-       
+     #the lines above can be replaced with   
+    # elif anotherroll.lower() == "n" or anotherroll.lower()=="no":
+      # break 
 #goodbye world :)
